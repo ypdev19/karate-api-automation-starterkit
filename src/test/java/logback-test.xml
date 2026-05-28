@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <!--
+      Set the log level to WARN or ERROR for org.thymeleaf
+      to silence the initialization and configuration messages.
+    -->
+    <logger name="org.thymeleaf" level="WARN"/>
+</configuration>
