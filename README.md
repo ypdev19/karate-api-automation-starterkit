@@ -153,3 +153,7 @@ After test execution, HTML reports are generated via:
 ✅ **Auth token management** stored and reused across scenarios  
 ✅ **Comprehensive negative test coverage**
 ✅ **Beginner-friendly and easy to extend**
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](./LICENSE). You are free to use, modify, and distribute it with proper attribution.
