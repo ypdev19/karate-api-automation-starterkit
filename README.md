@@ -2,7 +2,8 @@
 
 ## 1. Project Overview
 
-A production-ready, lightweight Karate DSL framework template designed for testing the [RESTful Booker API](https://restful-booker.herokuapp.com/apidoc/index.html).
+A production-ready, lightweight Karate DSL framework boilerplate designed for testing the [RESTful Booker API](https://restful-booker.herokuapp.com/apidoc/index.html).
+
 This beginner-friendly project showcases API testing best practices—including positive, negative, smoke, and regression scenarios. Using clean code, reusable components, and an industry-standard tagging strategy.
 
 ---
